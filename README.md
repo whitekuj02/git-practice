@@ -6,3 +6,4 @@
 - 4번째 commit: \[DEL\] hello.py
 - 5번째 commit: \[MOD\] READMD.md
 - 6번째 commit: \[ADD\] blob/main/Lab8.png
+- 7번째 commit: \[MOD\] blob/main/Lab8.png
