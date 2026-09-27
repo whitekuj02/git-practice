@@ -13,3 +13,4 @@
 - 11번째 commit: \[MOD\] blob/main/Lab8.png
 - 12번째 commit: \[MOD\] blob/main/Lab8.png
 - 13번째 commit: \[MOD\] blob/main/Lab8.png
+- 13번째 commit: \[MOD\] Lab8.png
